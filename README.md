@@ -4,7 +4,7 @@ mathematical properties in javascript
 The math namespace object contains static properties and methods for mathematical constants and functions.
 Math works with number type.It doesnt work with big integer values.
 
-###STATIC PROPERTIES###
+### STATIC PROPERTIES 
 * Math.E - Eulers number and the base of natural logarithms. Approximately (2.718)
 * Math.LN10 - Natural logarithm of 10 .Approximately (2.303)
 * Math.LN2 - Natural logarithm of 2 .Approximately (0.693)
